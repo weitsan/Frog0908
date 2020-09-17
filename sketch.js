@@ -22,7 +22,7 @@ let soundModel = './model/';
 let label = "開始收音";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://city535353.github.io/frogdetect/model/model.json';
+let soundModelURL = 'https://weitsan.github.io/Frog0908/model/model.json';
 
 
 function preload() {
