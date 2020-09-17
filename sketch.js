@@ -59,11 +59,11 @@ function gotResult(error, results) {
   // The results are in an array ordered by confidence.
   // console.log(results[0]); results[0].label
   if(results[0].label == 'mose') {
-	label = "莫式樹蛙";
+	label = "諸羅樹蛙";
   }else if(results[0].label == 'taipei'){
-	label = "台北樹蛙";
+	label = "澤蛙";
   }else if(results[0].label == 'draw'){
-	label = "諸羅樹蛙" ;
+	label = "瓜瓜蛙" ;
   }
    
   //label = results[0].label;
