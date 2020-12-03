@@ -49,7 +49,7 @@ function draw() {
   
 }
 
-var myVar = setInterval(function(){ quiet() }, 10000);
+//var myVar = setInterval(function(){ quiet() }, 10000);
 
 // The model recognizing a sound will trigger this event
 function gotResult(error, results) {
